@@ -1,0 +1,40 @@
+.project-section{
+
+}
+
+.heading-container{
+    display: flex;
+    align-items: center;
+}
+
+.project-logo{
+    max-width: 100px;
+    max-width: 100px;
+    width: 10vh;
+}
+
+.project-name{
+    align-self: end;
+    margin:0;
+    padding:0
+}
+
+.project-text{
+
+}
+
+.img-gallery{
+
+}
+
+.gallery-img-container{
+
+}
+
+.project-links-container{
+
+}
+
+.links-text{
+
+}

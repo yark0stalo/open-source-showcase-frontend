@@ -1,0 +1,22 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: #0D0C1D;
+    justify-content: center;
+    min-height: 100px;
+    gap: 5%;
+    margin-top: auto;
+}
+
+.footer-text{
+    display: block;
+    margin: 0;
+    padding: 0;
+    margin-left: 15%;
+}
+
+.footer-contacts{
+    margin-right: 5%;
+}

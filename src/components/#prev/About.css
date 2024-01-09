@@ -1,0 +1,12 @@
+.section{
+    background: rgba(69, 105, 144, 0.72);
+    width: 90%;
+}
+
+.about-heading{
+    font-size: 5vh;
+}
+
+.about-description{
+    font-size: 3vh;
+}

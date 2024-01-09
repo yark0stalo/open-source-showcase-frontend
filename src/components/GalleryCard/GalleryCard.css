@@ -1,0 +1,56 @@
+.gallery-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+
+    min-width: 40cqmin;
+    height: 50cqh;
+    margin: 0 /* -5cqw */;
+    z-index: -1;
+    padding: 0;
+
+    border-radius: 10px;
+    background-color: rgb(99, 1, 140);
+
+    opacity: 75%;
+    box-shadow: 0 10px 10px #3d3d3d;
+}
+
+.active{
+    opacity: 100%;
+    min-width: 50cqmin;
+    height: 60cqh;
+    margin: 0;
+    padding: 0;
+    z-index: inherit;
+}
+
+.card-logo{
+    width: 5vh;
+    margin: 0;
+    padding: 0;
+}
+
+.card-project-name{
+    margin: 0;
+    padding: 0;
+}
+
+.card-project-description{
+    margin: 0;
+    padding: 0;
+}
+
+.card-button{
+    align-self: stretch;
+    border-radius: 5px;
+    background-color: yellowgreen;
+
+    margin: 0 2vw;
+}
+
+.card-button-text{
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,18 @@
+.project-links-list{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    align-content: center;
+}
+
+.project-links-list li:not(:last-child){
+    margin: 0;
+    padding: 0;
+    margin-right: 5px;
+}
+
+.project-links-list a {
+    display: block;
+    max-height: 30px;
+}
